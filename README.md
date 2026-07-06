@@ -104,7 +104,7 @@
 
 ## 📞 联系我们
 
-- 💬 Telegram: [加入讨论群]( https://t.me/PikPak_By_Shimily)
+- 💬 Telegram: [加入讨论群]( https://t.me/Shimily_SoftWare)
 
 ---
 ![Screenshot 1]( https://i.imgur.com/MdKZ1t6.png)
